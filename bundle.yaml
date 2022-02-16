@@ -1,0 +1,6 @@
+apiVersion: "1"
+version: "1"
+id: "cloudbees-ci-mdlugaj-dev-controller"
+description: "CloudBees CI configuration bundle for the cloudbees-ci-mdlugaj dev-controller Controller"
+availabilityPattern: "cloudbees-ci-casc-workshop/cloudbees-ci-mdlugaj/dev-controller"
+parent: "base"
